@@ -1,0 +1,16 @@
+Maybe: Sierra Gregory:
+	main.py
+requirements.txt
+runtime.txt
+uploads/
+mastered/
+metadata/
+
+Sierra Gregory:
+	fastapi
+uvicorn
+numpy
+soundfile
+pyloudnorm
+mutagen
+python-multipart
