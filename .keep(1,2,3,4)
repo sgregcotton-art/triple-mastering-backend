@@ -1,3 +1,7 @@
-uploads/.keep2
-mastered/.keep3
-metadata/.keep4
+main.py
+requirements.txt
+uploads/
+mastered/
+metadata//.keep(2)
+mastered/.keep(3)
+metadata/.keep(4)
