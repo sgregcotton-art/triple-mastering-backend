@@ -1,5 +1,4 @@
-
-	main.py
+main.py
 requirements.txt
 runtime.txt
 uploads/
