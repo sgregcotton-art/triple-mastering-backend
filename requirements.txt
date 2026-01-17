@@ -1,4 +1,4 @@
-Maybe: Sierra Gregory:
+
 	main.py
 requirements.txt
 runtime.txt
